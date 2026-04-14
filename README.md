@@ -73,4 +73,4 @@ The dataset was provided by **[DataSpace Academy](https://dataspace.academy/)** 
 
 ## 👤 Author
 **Nitish Sahoo** — BCA Student & Data Analytics Trainee  
-[LinkedIn](www.linkedin.com/in/nitish-sahoo-924540346) | [GitHub](#)
+[LinkedIn](www.linkedin.com/in/nitish-sahoo-924540346) | [GitHub](https://github.com/NITISH-SAHOO)
